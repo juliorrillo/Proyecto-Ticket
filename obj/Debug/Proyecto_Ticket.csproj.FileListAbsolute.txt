@@ -1,0 +1,138 @@
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\elias.ruiz.OCN\source\repos\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23_7\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V23-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.ReporteTickets.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.ReporteTickets.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\elias.ruiz\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.ReporteTickets.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\Elias\Desktop\Proyecto_Ticket_V24-7_1\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.ReporteTickets.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+Z:\DOCUMENTOS\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.ReporteTickets.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+C:\Users\Julian\Desktop\ticket elias\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe.config
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.exe
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\bin\Debug\Proyecto_Ticket.pdb
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csprojAssemblyReference.cache
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.InicioSesion.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaPrincipal.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicket.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaTicketAgregar.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarioAgregar.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.PantallaUsuarios.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Presentacion.ReporteTickets.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.Properties.Resources.resources
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.GenerateResource.cache
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.csproj.CoreCompileInputs.cache
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.exe
+E:\Documentos\Proyecto_ticket\Proyecto_Ticket_V24-7_2\Proyecto_Ticket\obj\Debug\Proyecto_Ticket.pdb
